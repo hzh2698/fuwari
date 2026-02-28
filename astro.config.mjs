@@ -53,6 +53,7 @@ export default defineConfig({
 				"fa6-brands": ["*"],
 				"fa6-regular": ["*"],
 				"fa6-solid": ["*"],
+				"fa7-brands": ["*"],
 			},
 		}),
 		expressiveCode({
