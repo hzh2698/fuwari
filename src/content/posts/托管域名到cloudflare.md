@@ -6,7 +6,7 @@ image: ""
 tags:
   - 域名
 category: 域名
-draft: true
+draft: false
 ---
 
 # 引言
