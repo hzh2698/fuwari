@@ -19,6 +19,13 @@ draft: true
 
 # 下载工具
 
-这篇文章用到的工具是ddns-go。先打开[ddns-go的github仓库](https://github.com/jeessy2/ddns-go)，点击右下方的releases
+这篇文章用到的工具是ddns-go。先打开[ddns-go的github仓库](https://github.com/jeessy2/ddns-go)，点击右下方的releases![点击releases](https://img-bucket.303302.xyz/2026/03/20260304180104238.png)
 
-选择符合自己系统和cpu架构的文件下载（现在的windows电脑基本上都是x64架构，选择windows_x86_64）
+选择符合自己系统和cpu架构的文件下载（现在的windows电脑基本上都是x64架构，选择windows_x86_64）![](https://img-bucket.303302.xyz/2026/03/20260304180325099.png)
+
+下载解压之后会有四个文件，我们先打开README.md，这是使用说明![](https://img-bucket.303302.xyz/2026/03/20260304180652501.png)
+
+在README.md我们可以看到如下内容，找到windows的启动命令`.\ddns-go.exe -s install`
+![](https://img-bucket.303302.xyz/2026/03/20260304180928815.png)
+
+然后以管理员
