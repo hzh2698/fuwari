@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/第一篇文章.md",
+                "file": "src/content/posts/使用ddns-go把ip解析到域名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一篇文章"
+              "title": "使用ddns-go把ip解析到域名"
             }
           }
         ]
@@ -187,14 +187,14 @@
   },
   "active": "012ebd25d20b7d28",
   "lastOpenFiles": [
+    "src/content/posts/获取自己的域名.md",
+    "src/content/posts/第一篇文章.md",
     "src/content/posts/openclaw的部署，接入平台，切换模型提供商以及卸载.md",
     "src/content/posts/使用ddns-go把ip解析到域名.md",
     "src/content/posts/托管域名到cloudflare.md",
     "Pasted image 20260304221610.png",
-    "src/content/posts/获取自己的域名.md",
     "posts/获取自己的域名.md",
     "posts",
-    "src/content/posts/第一篇文章.md",
     "src/content/spec/about.md",
     "README.md",
     "2026-02-26.md",
